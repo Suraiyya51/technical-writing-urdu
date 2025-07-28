@@ -37,3 +37,4 @@ This repository contains a **word-by-word Urdu translation** of the book *Techni
 - This is **not** an official translation.
 - The translation is word-by-word and may lack contextual or idiomatic expression.
 - All rights of the original content belong to the respective author/publisher.
+- If you want to learn Urdu or English grammar please send me an email on **suraiyyababar22@gmail.com** 
