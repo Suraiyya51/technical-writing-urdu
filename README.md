@@ -1,3 +1,77 @@
+# میری کتابوں کے تراجم / My Book Translations
+
+## تعارف / Introduction
+میں نے اب تک دو کتابوں کے تراجم کیے ہیں اور مجھے معلوم ہے کہ اکیلے بیٹھ کر کوئی بھی شخص اپنی غلطیاں مکمل طور پر درست نہیں کر سکتا۔  
+یہ پروجیکٹ GitHub پر اس لیے موجود ہے تاکہ میں اپنی غلطیوں سے سیکھ سکوں اور اپنی تحریر، خیالات اور اظہار کو بہتر بنا سکوں۔  
+
+I have translated two books so far, and I know that no one can completely correct their mistakes alone.  
+This project is hosted on GitHub so that I can learn from my errors and improve my writing, ideas, and expression.
+
+---
+
+## مقصد / Purpose
+- اپنی غلطیوں کو پہچاننا اور سیکھنا  
+- تعمیری تنقید کے ذریعے بہتری لانا  
+- لوگوں کے ساتھ علمی اور ادبی مواد کا اشتراک  
+
+- To identify and learn from mistakes  
+- To improve through constructive feedback  
+- To share literary and intellectual content with others  
+
+---
+
+## استعمال / Usage
+آپ اس پروجیکٹ کو دیکھ سکتے ہیں، پڑھ سکتے ہیں اور اپنی رائے یا تجاویز دے سکتے ہیں۔  
+You can view, read, and provide feedback or suggestions on this project.  
+
+---
+
+## تعمیری تنقید / Feedback
+میں امید کرتی ہوں کہ آپ مناسب اور تعمیری تنقید فراہم کریں گے، جو مجھے اپنی تحریر اور خیالات کو بہتر بنانے میں مدد دے گی۔  
+I hope you provide constructive and helpful feedback that will help me improve my writing and ideas.  
+
+---
+
+## شکریہ / Thank You
+آپ کے وقت اور رہنمائی کے لیے بہت شکریہ!  
+Thank you for your time and guidance!
+# میری کتابوں کے تراجم / My Book Translations
+
+## تعارف / Introduction
+میں نے اب تک دو کتابوں کے تراجم کیے ہیں اور مجھے معلوم ہے کہ اکیلے بیٹھ کر کوئی بھی شخص اپنی غلطیاں مکمل طور پر درست نہیں کر سکتا۔  
+یہ پروجیکٹ GitHub پر اس لیے موجود ہے تاکہ میں اپنی غلطیوں سے سیکھ سکوں اور اپنی تحریر، خیالات اور اظہار کو بہتر بنا سکوں۔  
+
+I have translated two books so far, and I know that no one can completely correct their mistakes alone.  
+This project is hosted on GitHub so that I can learn from my errors and improve my writing, ideas, and expression.
+
+---
+
+## مقصد / Purpose
+- اپنی غلطیوں کو پہچاننا اور سیکھنا  
+- تعمیری تنقید کے ذریعے بہتری لانا  
+- لوگوں کے ساتھ علمی اور ادبی مواد کا اشتراک  
+
+- To identify and learn from mistakes  
+- To improve through constructive feedback  
+- To share literary and intellectual content with others  
+
+---
+
+## استعمال / Usage
+آپ اس پروجیکٹ کو دیکھ سکتے ہیں، پڑھ سکتے ہیں اور اپنی رائے یا تجاویز دے سکتے ہیں۔  
+You can view, read, and provide feedback or suggestions on this project.  
+
+---
+
+## تعمیری تنقید / Feedback
+میں امید کرتی ہوں کہ آپ مناسب اور تعمیری تنقید فراہم کریں گے، جو مجھے اپنی تحریر اور خیالات کو بہتر بنانے میں مدد دے گی۔  
+I hope you provide constructive and helpful feedback that will help me improve my writing and ideas.  
+
+---
+
+## شکریہ / Thank You
+آپ کے وقت اور رہنمائی کے لیے بہت شکریہ!  
+Thank you for your time and guidance!
 # 📘 Technical Writing - لفظ بہ لفظ اردو ترجمہ
 
 ## 📌 Urdu (اردو)
